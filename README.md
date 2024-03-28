@@ -1,1 +1,3 @@
-AUTO GENERATE PASSWORD BASED ON NUMBERS AND SPECIAL CHARACTERS
+Python mini project 
+Password Generator
+Auto generate a new password based on numbers and special characters selected by User.
