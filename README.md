@@ -4,4 +4,3 @@ Password Generator
 
  - Language(s): Python
  - Develop Tool(s): Visual Studio Code (VS Code)
- - 
